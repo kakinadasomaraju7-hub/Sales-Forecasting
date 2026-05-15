@@ -8,7 +8,7 @@ import numpy as np
 st.set_page_config(page_title="Sales Dashboard", layout="wide")
 
 # ---------------- LOAD DATA ----------------
-df = pd.read_csv(r"C:\Users\VARALAKSHMI KAKINADA\Downloads\archive.zip")
+df = pd.read_csv(r"C:\Users\VARALAKSHMI KAKINADA\Desktop\VARA LAKSHMI\dataset.csv")
 
 # Convert date
 df['Order Date'] = pd.to_datetime(df['Order Date'])

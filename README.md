@@ -1,2 +1,21 @@
-# Sales-Forecasting
-Analyzes historical sales data to identify trends and predict future demand. Includes data cleaning, EDA, and a Streamlit dashboard with KPIs, filters, and visualizations. Uses Linear Regression to forecast next 30 days for better decision-making.
+# Sales & Demand Forecasting
+
+## Objective
+To predict future sales using historical data.
+
+## Tools Used
+- Python
+- Pandas
+- Streamlit
+- Machine Learning
+
+## Steps
+1. Data Cleaning
+2. Data Analysis
+3. Forecasting
+4. Dashboard Creation
+
+## Results
+- Identified trends
+- Built forecast model
+- Created dashboard
